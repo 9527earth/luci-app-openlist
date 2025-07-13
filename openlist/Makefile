@@ -12,7 +12,7 @@ PKG_WEB_VERSION:=4.0.8
 PKG_RELEASE:=1
 
 PKG_SOURCE:=$(PKG_NAME)-$(PKG_VERSION).tar.gz
-PKG_SOURCE_URL:=https://codeload.github.com/OpenListTeam/OpenList/tar.gz/v$(PKG_VERSION)?
+PKG_SOURCE_URL:=https://codeload.github.com/9527earth/OpenList/tar.gz/v$(PKG_VERSION)?
 PKG_HASH:=216a7c7c66de9bcff59ab946874a8b4641b2b6e90c5236bd45bf8219149c5a3d
 
 PKG_BUILD_DIR:=$(BUILD_DIR)/OpenList-$(PKG_VERSION)
